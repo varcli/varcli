@@ -1,6 +1,7 @@
-### Hi there 👋
-
 <!--
+### <h1 align="center">Hi 👋, I'm Will 保哥</h1> 👋
+
+
 **connself/connself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, i'm geomch</h1>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=connself&show_icons=true&locale=en" alt="connself" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=connself&" alt="connself" /></p>
