@@ -1,5 +1,5 @@
 <!--
-### <h1 align="center">Hi 👋, I'm Will 保哥</h1> 👋
+### Hi 👋, I'm GEOMCH
 
 
 **connself/connself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,65 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, i'm geomch</h1>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=connself&show_icons=true&locale=en" alt="connself" /></p>
+<h1 align="center">Hi 👋</h1>
+<br>
+<p align="center">
+  <a href="https://github.com/connself" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=connself&title_color=333&text_color=777" alt="connself" >
+  </a>
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=connself&" alt="connself" /></p>
+<br>
+<p align="center">
+<a href="https://github.com/connself">
+<img src="https://badges.strrl.dev/visits/connself/connself?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/connself">
+<img src="https://badges.strrl.dev/years/connself?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/connself?tab=repositories">
+<img src="https://badges.strrl.dev/repos/connself?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://gist.github.com/connself">
+<img src="https://badges.strrl.dev/gists/connself?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/connself">
+<img src="https://badges.strrl.dev/commits/monthly/connself?style=flat-square&color=black&logo=github">
+</a>
+</p>
+
+<h2></h2>
+
+<img align="right" alt="GIF" src="images/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
+**Languages and Frameworks**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" title="#"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/a92591a79a4ce31660058d7ccc66c79266931f61/topics/dotnet/dotnet.png" alt="dotnet" title="dotnet"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" alt="asp.net" title="asp.net"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" title="vue"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="javascript"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" title="nodejs"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" title="html"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" title="css"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql"></code>
+
+**Tools and Environments**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/002d791bc68a86506b1bb7a3332bb6ba8e1d1891/topics/chrome/chrome.png" alt="chrome" title="chrome"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" alt="firefox" title="firefox"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" title="Windows"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+    
+<br>
+<br>
+
