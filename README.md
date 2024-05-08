@@ -1,5 +1,5 @@
 <!--
-### Hi 👋, I'm geoc
+### Hi 👋 
 
 
 **connself/connself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
