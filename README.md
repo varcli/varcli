@@ -2,7 +2,7 @@
 ### Hi 👋 
 
 
-**connself/connself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**varcli/varcli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,27 +19,27 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋</h1>
 <br>
 <p align="center">
-  <a href="https://github.com/connself" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=connself&title_color=333&text_color=777" alt="connself" >
+  <a href="https://github.com/varcli" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=varcli&title_color=333&text_color=777" alt="varcli" >
   </a>
 </p>
 
 <br>
 <p align="center">
-<a href="https://github.com/connself">
-<img src="https://badges.strrl.dev/visits/connself/connself?style=flat-square&color=black&logo=github">
+<a href="https://github.com/varcli">
+<img src="https://badges.strrl.dev/visits/varcli/varcli?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://github.com/connself">
-<img src="https://badges.strrl.dev/years/connself?style=flat-square&color=black&logo=github">
+<a href="https://github.com/varcli">
+<img src="https://badges.strrl.dev/years/varcli?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://github.com/connself?tab=repositories">
-<img src="https://badges.strrl.dev/repos/connself?style=flat-square&color=black&logo=github">
+<a href="https://github.com/varcli?tab=repositories">
+<img src="https://badges.strrl.dev/repos/varcli?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://gist.github.com/connself">
-<img src="https://badges.strrl.dev/gists/connself?style=flat-square&color=black&logo=github">
+<a href="https://gist.github.com/varcli">
+<img src="https://badges.strrl.dev/gists/varcli?style=flat-square&color=black&logo=github">
 </a>
-<a href="https://github.com/connself">
-<img src="https://badges.strrl.dev/commits/monthly/connself?style=flat-square&color=black&logo=github">
+<a href="https://github.com/varcli">
+<img src="https://badges.strrl.dev/commits/monthly/varcli?style=flat-square&color=black&logo=github">
 </a>
 </p>
 
