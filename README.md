@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- 访客计数器 -->
 <div>
   <h4 align="center">访客数 :eyes:</h4>
-  <p align="center"><img src="https://count.getloli.com/get/@:varcli?theme=e621&align=center" style="display: block; margin-left: auto; margin-right: auto; height: 120px;" /></p>
+  <p align="center"><img src="https://count.getloli.com/@:varcli?name=%3Avarcli&theme=sketch-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" style="display: block; margin-left: auto; margin-right: auto; height: 120px;" /></p>
 </div>
 <br>
 
