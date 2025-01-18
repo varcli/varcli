@@ -1,5 +1,5 @@
 <!--
-### Hi 👋 
+### Hi There 👋😋
 
 
 **varcli/varcli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋</h1>
-<br>
-![github contribution grid snake animation](https://raw.githubusercontent.com/impact-eintr/impact-eintr/output/github-contribution-grid-snake.svg)
+<h1 align="center">Hi There 👋😋</h1>
 
 <br>
-<p align="center">
+<!-- 访客计数器 -->
+<div>
+  <h4 align="center">访客数 :eyes:</h4>
+  <p align="center"><img src="https://count.getloli.com/get/@:varcli?theme=e621&align=center" style="display: block; margin-left: auto; margin-right: auto; height: 120px;" /></p>
+</div>
+<br>
+
+<div align="center">
 <a href="https://github.com/varcli">
 <img src="https://badges.strrl.dev/visits/varcli/varcli?style=flat-square&color=black&logo=github">
 </a>
@@ -37,7 +42,17 @@ Here are some ideas to get you started:
 <a href="https://github.com/varcli">
 <img src="https://badges.strrl.dev/commits/monthly/varcli?style=flat-square&color=black&logo=github">
 </a>
-</p>
+</div>
+<br>
+
+<div>
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=varcli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varcli&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/impact-eintr/impact-eintr/output/github-contribution-grid-snake.svg)
+</div>
+<br>
 
 <h2></h2>
 
