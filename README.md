@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋</h1>
 <br>
 <p align="center">
-  <a href="https://github.com/varcli" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=varcli&title_color=333&text_color=777" alt="varcli" >
-  </a>
+  ![](https://github-readme-activity-graph.cyclic.app/graph?username=varcli&theme=dracula)
 </p>
 
 <br>
