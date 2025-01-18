@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋</h1>
 <br>
-<p align="center">
-  ![](https://github-readme-activity-graph.cyclic.app/graph?username=varcli&theme=dracula)
-</p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/impact-eintr/impact-eintr/output/github-contribution-grid-snake.svg)
 
 <br>
 <p align="center">
